@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;500;600;700;800;900&family=Ubuntu:wght@300&display=swap');
+.homeCont{
+    background-image: url(../assets/note3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+*>*{
+    box-sizing: border-box;
+    font-family: 'Outfit';
+    margin: 0;
+    font-size: 1.2rem;
+
+    
+}
+
+.header{
+    font-family:cursive;
+    font-weight: bold;
+}
